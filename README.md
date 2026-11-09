@@ -24,7 +24,7 @@ As métricas seguem **Daniel Vacanti** (Cycle Time, Throughput, WIP, Aging WIP, 
 | Modo | Quando usar | O que você recebe |
 |---|---|---|
 | **Report** | Fechar ou reportar uma sprint para PO, gestor ou liderança | HTML de **uma página A4**, editável no navegador, pronto para virar PDF |
-| **Análise rápida** | Pergunta pontual de fluxo, time Kanban ou sem datas de sprint | A resposta direta, com o número e o "e daí?", sem documento |
+| **Análise rápida** | Pergunta pontual de fluxo, time Kanban ou sem datas de sprint | A resposta direta, com o número e o que ele significa para o time, sem documento |
 
 Na dúvida, a skill responde no modo rápido e oferece o report em uma linha. Os dois modos usam as mesmas regras de cálculo, então os números batem entre si.
 
@@ -50,7 +50,7 @@ Fale em linguagem natural. **Não precisa dizer "one page report".**
 - **Cabeçalho:** time, sprint, período, autor e status (verde, amarelo ou vermelho).
 - **Objetivo da sprint** e resultado.
 - **Indicadores:** entregues na sprint, planejado × entregue (opcional), Cycle Time P85, WIP atual e itens acima do P85.
-- **Leitura dos dados:** de 3 a 5 frases, cada uma com um número e o "e daí?", sem jargão para quem lê.
+- **Leitura dos dados:** de 3 a 5 frases, cada uma com um número e o que ele significa, sem jargão para quem lê.
 - **Quatro gráficos:** dispersão de Cycle Time, Throughput semanal, CFD e Aging WIP.
 - **Previsão Monte Carlo** (quando há itens restantes ou data-alvo).
 - **Destaques, riscos e impedimentos, decisões necessárias e próxima sprint.**
@@ -187,7 +187,7 @@ The metrics follow **Daniel Vacanti** (Cycle Time, Throughput, WIP, Aging WIP, C
 | Mode | When | What you get |
 |---|---|---|
 | **Report** | Closing or reporting a sprint to a PO, manager or leadership | A **one-page A4** HTML, editable in the browser, ready to become a PDF |
-| **Quick analysis** | A one-off flow question, a Kanban team, or no sprint dates | The direct answer, with the number and the "so what?", no document |
+| **Quick analysis** | A one-off flow question, a Kanban team, or no sprint dates | The direct answer, with the number and what it means for the team, no document |
 
 When in doubt, the skill answers in quick mode and offers the report in one line. Both modes use the same calculation rules, so their numbers match.
 
@@ -213,7 +213,7 @@ Ask in natural language. **You don't need to say "one page report".**
 - **Header:** team, sprint, period, author and status (green, yellow or red).
 - **Sprint goal** and outcome.
 - **KPIs:** delivered in the sprint, planned vs. delivered (optional), Cycle Time P85, current WIP and items above P85.
-- **Data reading:** 3 to 5 sentences, each with a number and its "so what?", free of jargon for the reader.
+- **Data reading:** 3 to 5 sentences, each with a number and what it means, free of jargon for the reader.
 - **Four charts:** Cycle Time scatterplot, weekly Throughput, CFD and Aging WIP.
 - **Monte Carlo forecast** (when there are remaining items or a target date).
 - **Highlights, risks and impediments, decisions needed and next sprint.**
